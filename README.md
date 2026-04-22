@@ -2,6 +2,10 @@
 
 A shareable static birthday page for Soviry.
 
+Live site:
+
+- `https://admiller007.github.io/Soviry/`
+
 ## Files
 
 - `soviry-brugal-halo.html` - the main page
